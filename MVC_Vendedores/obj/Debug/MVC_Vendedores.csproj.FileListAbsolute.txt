@@ -1,0 +1,8 @@
+C:\Users\eduar\Source\Repos\EDD2_MVC_Vendedores\EDD2_MVC_Vendedores\bin\Debug\EDD2_MVC_Vendedores.exe.config
+C:\Users\eduar\Source\Repos\EDD2_MVC_Vendedores\EDD2_MVC_Vendedores\bin\Debug\EDD2_MVC_Vendedores.exe
+C:\Users\eduar\Source\Repos\EDD2_MVC_Vendedores\EDD2_MVC_Vendedores\bin\Debug\EDD2_MVC_Vendedores.pdb
+C:\Users\eduar\Source\Repos\EDD2_MVC_Vendedores\EDD2_MVC_Vendedores\obj\Debug\MVC_Vendedores.csproj.AssemblyReference.cache
+C:\Users\eduar\Source\Repos\EDD2_MVC_Vendedores\EDD2_MVC_Vendedores\obj\Debug\MVC_Vendedores.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\Source\Repos\EDD2_MVC_Vendedores\EDD2_MVC_Vendedores\obj\Debug\MVC_Vendedores.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Source\Repos\EDD2_MVC_Vendedores\EDD2_MVC_Vendedores\obj\Debug\EDD2_MVC_Vendedores.exe
+C:\Users\eduar\Source\Repos\EDD2_MVC_Vendedores\EDD2_MVC_Vendedores\obj\Debug\EDD2_MVC_Vendedores.pdb
